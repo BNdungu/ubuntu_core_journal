@@ -2,7 +2,7 @@
 
 This guide provides step-by-step instructions to install `pip` on Ubuntu Core using Python's built-in `urllib` module.
 
-## Prerequisites
+## Prerequisites 
 
 - Ubuntu Core installed on your system.
 - Python 3 installed (it is included by default with Ubuntu Core).
