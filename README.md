@@ -1,4 +1,4 @@
-# Installing pip on Ubuntu Core
+# Installing pip on Ubuntu Core 
 
 This guide provides step-by-step instructions to install `pip` on Ubuntu Core using Python's built-in `urllib` module.
 
